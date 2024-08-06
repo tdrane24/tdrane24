@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Total Stars Earned**: 29k
-**Total Commits**: 2k
-**Total PRs**: 1.8k
-**Contributed To**: 23 projects
+### My GitHub Stats
+
+**Total Stars Earned**: 29k :sparkle:
+
+**Total Commits**: 2k :sparkle:
+
+**Total PRs**: 1.8k :sparkle:
+
+**Contributed To**: 23 projects :sparkle:
