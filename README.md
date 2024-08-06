@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Total Stars Earned**: 29k
+**Total Commits**: 2k
+**Total PRs**: 1.8k
+**Contributed To**: 23 projects
